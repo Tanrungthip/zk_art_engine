@@ -140,3 +140,11 @@ dist
 # OSX
 
 .DS_Store
+
+#layers
+
+layers/
+
+#.env
+
+.env
