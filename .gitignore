@@ -148,3 +148,7 @@ layers/
 #.env
 
 .env
+
+# Build file
+
+build/
