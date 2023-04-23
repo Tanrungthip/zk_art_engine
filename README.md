@@ -1,6 +1,6 @@
 # Welcome 👾
 
-Fork Repo from Hashlips
+Fork from Hashlips
 - This repository is intended for practicing the generation of artwork based on Hashlips Repository
 
 ### Preview of the artwork creating by this repo 😛
